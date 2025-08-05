@@ -36,11 +36,8 @@ The objective of this project is to **predict housing prices** based on various 
 | Data Visualization   | Matplotlib                         |
 | Model Building       | Scikit-learn (sklearn)             |
 | Deployment           | Flask                              |
-| IDEs Used            | Jupyter Notebook, VS Code, PyCharm |
+| IDEs Used            | Jupyter Notebook, PyCharm |
 
----
-
-## 📁 Project Structure
 
 
 
